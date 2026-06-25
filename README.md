@@ -91,17 +91,20 @@ Evaluasi akurasi dilakukan menggunakan confusion matrix berbasis stratified rand
 <img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/64d05b5f-d441-44e1-b171-90c0234034ff" />
 
 - Halaman Analisis
-<img width="1918" height="908" alt="image" src="![alt text](image.png)" />
+<img width="1918" height="908" alt="image" src="image.png" />
 
 - Statistik Luas Perubahan
-![alt text](image-1.png)
+<img src="image-1.png" width="500">
+
 
 - Proses Penetapan Area sebagai Indikatif Deforestasi/Degradasi
-![alt text](image-2.png)
+<img src="image-2.png" width="500">
+<img src="image-3.png" width="500">
+<!-- ![alt text](image-2.png) -->
 
 
 
 ## Pengembang
-- Khosyi Nur Aliya di bawah pengawasan oleh Dr. Like Indrawati, S.Si., M.Sc
+- Khosyi Nur Aliya di bawah pengawasan oleh Dr. Like Indrawati, S.Si., M.Sc.
 - Project sebagai bagian dari penelitian Sagit statusrjana Terapan Sistem Informasi Geografis, Universitas Gadjah Mada
 - Temukan saya di [Linkedin](https://www.linkedin.com/in/khosyi-nur-aliya-15b6aa2a7/) atau [email](khosyinuraliya@mail.ugm.ac.id)
