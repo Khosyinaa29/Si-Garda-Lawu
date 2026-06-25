@@ -42,14 +42,14 @@ Fitur utama:
 - Menampilkan grafik statistik perubahan
 - Menampilkan luas area deteksi berdasar respon hamburan citra satelit SAR Sentinel-1
 - Mengunduh hasil analisis dalam bentuk data spasial
-- Menampilkan informasi panduan penggunaan
+- Menampilkan proses ditetapkannya poligon sebagai area indikatif saat poligon diklik
 
 ## Keluaran
 Keluaran utama aplikasi meliputi:
 - Layer indikatif deforestasi
 - Layer indikatif degradasi
 - Statistik luas perubahan
-- Grafik dinamika perubahan
+- Analisis setiap poligon yang dihasilkan berupa proses dinamika hamburan hingga ditetapkan menjadi area indikatif
 - File hasil unduhan untuk analisis lanjutan
 
 ## Interpretasi Hasil
@@ -95,5 +95,5 @@ Evaluasi akurasi dilakukan menggunakan confusion matrix berbasis stratified rand
 
 ## Pengembang
 - Khosyi Nur Aliya di bawah pengawasan oleh Dr. Like Indrawati, S.Si., M.Sc
-- Project sebagai bagian dari penelitian Sarjana Terapan Sistem Informasi Geografis, Universitas Gadjah Mada
+- Project sebagai bagian dari penelitian Sagit statusrjana Terapan Sistem Informasi Geografis, Universitas Gadjah Mada
 - Temukan saya di [Linkedin](https://www.linkedin.com/in/khosyi-nur-aliya-15b6aa2a7/) atau [email](khosyinuraliya@mail.ugm.ac.id)
