@@ -94,12 +94,12 @@ Evaluasi akurasi dilakukan menggunakan confusion matrix berbasis stratified rand
 <img src="assets/image.png" width="800">
 
 - Statistik Luas Perubahan
-<img src="assets/image-1.png" width="500">
+<img src="assets/image-1.png" width="200">
 
 
 - Proses Penetapan Area sebagai Indikatif Deforestasi/Degradasi
-<img src="assets/image-2.png" width="500">
-<img src="assets/image-3.png" width="500">
+<img src="assets/image-2.png" width="200">
+<img src="assets/image-3.png" width="200">
 <!-- ![alt text](image-2.png) -->
 
 
